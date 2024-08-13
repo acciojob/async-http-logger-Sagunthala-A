@@ -8,3 +8,5 @@ async function fetchingApi(){
 		console.log(e)
 	}
 }
+
+fetchingApi();
